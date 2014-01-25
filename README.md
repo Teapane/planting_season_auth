@@ -1,4 +1,6 @@
 planting_season_auth
 ====================
 
-A landing page and authorization app for Planting Season
+Front end views and authorization for the Planting Season App
+
+Ruby, Rails, OmniAuth
